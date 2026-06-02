@@ -1,0 +1,21 @@
+.spinner-container {
+  min-height: 4rem;
+}
+
+.summary-box {
+  background-color: #f3f3f3;
+}
+
+.line-item-card {
+  border-left: 3px solid #0176d3;
+}
+
+.remove-button {
+  margin-top: 1.4rem;
+}
+
+@media (max-width: 48rem) {
+  .remove-button {
+    margin-top: 0;
+  }
+}
